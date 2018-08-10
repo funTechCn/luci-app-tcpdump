@@ -40,6 +40,6 @@ require "uci"
 #end
 endef
 
-include ../../luci.mk
+#include ../../luci.mk
 #
 # call BuildPackage - OpenWrt buildroot signature
